@@ -1,3 +1,4 @@
+import PerfectScrollbar from 'perfect-scrollbar';
 const PS = new PerfectScrollbar("#cells", {
     wheelSpeed: 12,
     wheelPropagation: true,
